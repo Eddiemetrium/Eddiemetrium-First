@@ -1,2 +1,2 @@
 # Eddiemetrium-First
- My first website as a developer. My friend Shem actually chalenged me to start coding and here is my first project.
+ My first website as a developer. My friend Shem actually challenged me to start coding and here is my first project. No lie it was kinda fun till I was told I need actual challenges and projects in order to grow as a developer...
